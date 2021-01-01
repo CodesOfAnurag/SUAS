@@ -1,0 +1,1 @@
+Temp.o: ../Temp.cpp
